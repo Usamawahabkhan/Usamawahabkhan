@@ -100,10 +100,7 @@ Structured programs in AI Engineering, Cloud Architecture, Data Science & BI, an
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/usamawahabkhan/)  
 - 📧 Email: ukhan@evolutiontech.ae  
-- 📱 Phone: [+971553661755](tel:+971553661755)  
-- 📝 [Resume](https://1drv.ms/w/c/f945c63857c2af06/IQAGr8JXOMZFIID5hlACAAAAAbjZK08EhzR3yTNmW8saYbo)  
 
----
 
 ✨ **Vision Statement**  
 “To accelerate global AI adoption by transforming organizations into intelligent, autonomous, and data‑driven ecosystems.”  
